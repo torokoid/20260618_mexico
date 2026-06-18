@@ -197,6 +197,7 @@ p.note { display: none; }
     </div>
 
 <a href="20260618_010.JPG" target="_blank"><img src="20260618_010.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260618_018.JPG" target="_blank"><img src="20260618_018.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIj7drju5No?si=TROkCRy4V4ri7PBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
